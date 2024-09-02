@@ -3,4 +3,6 @@ astral==2.2
 shinyswatch==0.3.1
 shiny==0.5.0
 sentry-sdk
+pandas
 matplotlib
+streamlit
