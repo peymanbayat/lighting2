@@ -75,4 +75,4 @@ websockets==12.0
     # via shiny
 xstatic-bootswatch==3.3.7.0
     # via shinyswatch
-matplotlib=3.4.3
+matplotlib==3.4.3
