@@ -71,3 +71,6 @@ tornado[2024-09-03 10:36:24.644483] ==6.4.1
 tzdata==2024.1
 urllib3==2.2.2
 watchdog==4.0.2
+sentry-sdk
+pandas
+matplotlib==3.4.3
